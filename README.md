@@ -6,4 +6,3 @@ Hi, this is the repo of our paper "Mining Clues from Incomplete Utterance: A Que
 
 - Accepted by ACL 2022 Main Conference. 2022.04.08
 - Results released at Github. 2022.04.08
-- Updating...
