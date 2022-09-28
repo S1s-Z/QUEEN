@@ -1,6 +1,6 @@
 # QUEEN
 
-Hi, this is the repo of our paper "Mining Clues from Incomplete Utterance: A Query-enhanced Network for Incomplete Utterance Rewriting" accepted by NAACL 2022.
+Hi, this is the repo of our paper "Mining Clues from Incomplete Utterance: A Query-enhanced Network for Incomplete Utterance Rewriting" accepted by NAACL 2022. Our paper is available [here](https://aclanthology.org/2022.naacl-main.356/).
 
 News:
 
